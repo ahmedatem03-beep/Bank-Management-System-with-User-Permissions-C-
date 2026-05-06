@@ -1,0 +1,15 @@
+﻿  P1.cpp
+D:\Programs\C++\P1\P1\MyLip.h(171,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'P1.cpp')
+  
+D:\Programs\C++\P1\P1\MyLip.h(191,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'P1.cpp')
+  
+D:\Programs\C++\P1\P1\MyLip.h(220,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'P1.cpp')
+  
+D:\Programs\C++\P1\P1\P1.cpp(633,1): warning C4715: 'DeletClientByAccountNumber': not all control paths return a value
+D:\Programs\C++\P1\P1\P1.cpp(680,1): warning C4715: 'DeletUserByUserName': not all control paths return a value
+D:\Programs\C++\P1\P1\P1.cpp(719,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+D:\Programs\C++\P1\P1\P1.cpp(776,1): warning C4715: 'UpdateUserByUserName': not all control paths return a value
+  P1.vcxproj -> D:\Programs\C++\P1\x64\Debug\P1.exe
